@@ -1,0 +1,22 @@
+﻿Mantra for Basket - Licence (free version)
+Copyright (c) 2026 Stefano Sala
+
+1. Mantra for Basket is free. You may install and use it on as many computers as you like,
+   for personal use, for your team or your sports club, including to produce
+   videos that you then publish or distribute.
+
+2. You may pass it on to others only as it is, free of charge and with this licence file.
+   You may not sell it, either on its own or as part of other products.
+
+3. The videos, matches and data you create with Mantra for Basket are yours. The program works
+   on your computer: it sends no video or data to anyone. Filming and publishing
+   images of people (minors in particular) requires the permissions provided for by law:
+   obtaining them is the responsibility of the user.
+
+4. The program is provided "as is", without any warranty. The author is not
+   liable for damage or loss of data resulting from its use: keep a copy of your files.
+
+5. Mantra for Basket includes third-party components (Python, libraries, FFmpeg, free fonts),
+   each with its own licence: the list is in the LICENZE_TERZE_PARTI.txt file in the program folder.
+
+The Italian text (LICENZA.txt) is the reference version.
