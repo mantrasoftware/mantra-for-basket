@@ -4,6 +4,7 @@
 *Free software that turns basketball game recordings into highlights with score, clock and fouls on screen.*
 
 🌐 **Sito / Website:** https://mantrasoftware.github.io
+▶ **Video:** https://www.youtube.com/@mantrasoftwarehouse
 
 ---
 
