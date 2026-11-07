@@ -39,7 +39,7 @@ La guida è dentro il programma (pagina **AIUTO**) e sul sito: [Italiano](https:
 
 - **Domande, idee, consigli sulle riprese:** [Discussions](https://github.com/mantrasoftware/mantra-for-basket/discussions)
 - **Qualcosa non funziona:** [Issues](https://github.com/mantrasoftware/mantra-for-basket/issues) — descrivi cosa stavi facendo, cosa ti aspettavi e cosa è successo; se puoi allega i registri (la pagina AIUTO del programma dice dove sono).
-- **Email:** MantraSoftwareHouse@proton.me
+- **Email:** mantrasoftware2026@gmail.com
 
 ## Licenza
 
